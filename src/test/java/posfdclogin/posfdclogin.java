@@ -52,7 +52,7 @@ public class posfdclogin extends TestBase {
         return bRes_Flag;
     }
 
-    public boolean checkLoggedIntoTekAppOrNotElseLogin() throws Exception {
+    public boolean TC_01_checkLoggedIntoTekAppOrNotElseLogin() throws Exception {
         boolean bRes_Flag = false;
         try {
             oBroUti.waitForElementVisible(driver, usertech, 3);
@@ -74,7 +74,7 @@ public class posfdclogin extends TestBase {
 
     }
 
-    public boolean invalidsfdclogin() throws Exception {
+    public boolean TC_02_invalidsfdclogin() throws Exception {
         boolean bRes_Flag = false;
         oBroUti.waitForElementVisible(driver, ph_username, 5);
         oBroUti.ufSendKeys(ph_username, System.getProperty("td_invalid_emailId"));
@@ -89,7 +89,7 @@ public class posfdclogin extends TestBase {
     @FindBy(xpath = "//*[@id=\"rememberUn\"]")
     WebElement Rememberme;
 
-    public boolean Rememberusernamecheck() throws Exception {
+    public boolean TC_03_Rememberusernamecheck() throws Exception {
         boolean bRes_Flag = false;
         oBroUti.waitForElementVisible(driver, ph_username, 5);
         oBroUti.ufSendKeys(ph_username, System.getProperty("td_emailId"));
@@ -102,7 +102,7 @@ public class posfdclogin extends TestBase {
         return bRes_Flag;
     }
 
-    public boolean forgotpassword() throws Exception {
+    public boolean TC_04_forgotpassword() throws Exception {
         boolean bRes_Flag = false;
         oBroUti.waitForElementVisible(driver, ph_username, 5);
         oBroUti.ufSendKeys(ph_username, System.getProperty("td_emailId"));

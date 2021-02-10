@@ -39,7 +39,7 @@ public class sfdclogin extends TestBase {
 
     @Test(priority = 1)
     public void To_check_Error_For_Invalid_Login() throws Exception {
-        login.invalidsfdclogin();
+        login.TC_02_invalidsfdclogin();
         SoftAssert sa = new SoftAssert();
 
         sa.assertAll();
@@ -47,12 +47,12 @@ public class sfdclogin extends TestBase {
     @Test(priority = 4)
     public void Remember_username_check() throws Exception {
 
-        login.Rememberusernamecheck();
+        login.TC_03_Rememberusernamecheck();
     }
     @Test(priority = 3)
     public void forgot_password() throws Exception {
 
-        login.forgotpassword();
+        login.TC_04_forgotpassword();
     }
 
 }
