@@ -1,0 +1,321 @@
+2021-02-08 22:48:30 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-08 22:48:30 INFO  sfdclogin 38 - web
+2021-02-08 22:48:30 INFO  sfdclogin 39 - qa
+2021-02-08 22:48:30 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-08 22:54:47 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-08 22:54:47 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-08 22:54:47 INFO  sfdclogin 38 - web
+2021-02-08 22:54:47 INFO  sfdclogin 39 - qa
+2021-02-08 22:54:47 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-08 22:54:57 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (8cc69452cf9f57f1019350a415fb53a4)] -> name: username]
+2021-02-08 22:55:01 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (8cc69452cf9f57f1019350a415fb53a4)] -> name: username]
+2021-02-08 23:00:12 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-08 23:00:12 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-08 23:00:12 INFO  sfdclogin 38 - web
+2021-02-08 23:00:12 INFO  sfdclogin 39 - qa
+2021-02-08 23:00:12 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-08 23:00:22 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (e7d7b46794e7ca306e2d0de75d991a7d)] -> name: username]
+2021-02-08 23:00:24 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (e7d7b46794e7ca306e2d0de75d991a7d)] -> name: username]
+2021-02-08 23:04:48 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-08 23:04:48 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-08 23:04:48 INFO  sfdclogin 38 - web
+2021-02-08 23:04:48 INFO  sfdclogin 39 - qa
+2021-02-08 23:04:48 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-08 23:04:58 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (53324299180cca220fe0fb4f93455000)] -> name: username]
+2021-02-08 23:04:59 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (53324299180cca220fe0fb4f93455000)] -> name: username]
+2021-02-08 23:08:06 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-08 23:08:06 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-08 23:08:06 INFO  sfdclogin 38 - web
+2021-02-08 23:08:06 INFO  sfdclogin 39 - qa
+2021-02-08 23:08:06 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-08 23:08:14 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (96674424f26667d12df50fac93bdd823)] -> name: username]
+2021-02-08 23:08:16 INFO  posfdclogin 88 - ****************************
+2021-02-08 23:08:19 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (96674424f26667d12df50fac93bdd823)] -> name: username]
+2021-02-08 23:08:25 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (96674424f26667d12df50fac93bdd823)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-08 23:08:28 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (96674424f26667d12df50fac93bdd823)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-08 23:12:42 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-08 23:12:42 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-08 23:12:42 INFO  sfdclogin 38 - web
+2021-02-08 23:12:42 INFO  sfdclogin 39 - qa
+2021-02-08 23:12:42 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-08 23:12:52 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (ed05a25b3986e2fc584ce0c68056d155)] -> name: username]
+2021-02-08 23:12:53 INFO  posfdclogin 88 - ****************************
+2021-02-08 23:39:00 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-08 23:39:00 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-08 23:39:00 INFO  sfdclogin 38 - web
+2021-02-08 23:39:00 INFO  sfdclogin 39 - qa
+2021-02-08 23:39:00 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-08 23:39:10 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (8d8fc76b34cfc6c7590f1e25e433bfe9)] -> name: username]
+2021-02-08 23:39:12 INFO  posfdclogin 88 - ****************************
+2021-02-08 23:58:50 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-08 23:58:50 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-08 23:58:50 INFO  sfdclogin 38 - web
+2021-02-08 23:58:50 INFO  sfdclogin 39 - qa
+2021-02-08 23:58:50 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-08 23:59:00 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (d5f4506ec1e93037f3a16a1fdd990e49)] -> name: username]
+2021-02-08 23:59:02 INFO  posfdclogin 88 - ****************************
+2021-02-08 23:59:05 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (d5f4506ec1e93037f3a16a1fdd990e49)] -> name: username]
+2021-02-08 23:59:21 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (d5f4506ec1e93037f3a16a1fdd990e49)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-08 23:59:26 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (d5f4506ec1e93037f3a16a1fdd990e49)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 09:09:20 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 09:09:20 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 09:09:20 INFO  sfdclogin 38 - web
+2021-02-09 09:09:20 INFO  sfdclogin 39 - qa
+2021-02-09 09:09:20 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 09:11:01 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (59b4dd2f6a352b38d3522920e31e1731)] -> name: username]
+2021-02-09 09:11:05 INFO  posfdclogin 88 - ****************************
+2021-02-09 09:11:09 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (59b4dd2f6a352b38d3522920e31e1731)] -> name: username]
+2021-02-09 09:11:58 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (59b4dd2f6a352b38d3522920e31e1731)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 09:12:22 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (59b4dd2f6a352b38d3522920e31e1731)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 10:12:52 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 10:12:52 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 10:12:52 INFO  sfdclogin 38 - web
+2021-02-09 10:12:52 INFO  sfdclogin 39 - qa
+2021-02-09 10:12:52 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 10:13:03 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (55ce6f667ed5d460203183331619949e)] -> name: username]
+2021-02-09 10:13:05 INFO  posfdclogin 88 - ****************************
+2021-02-09 10:13:09 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (55ce6f667ed5d460203183331619949e)] -> name: username]
+2021-02-09 10:13:16 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (55ce6f667ed5d460203183331619949e)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 10:13:18 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (55ce6f667ed5d460203183331619949e)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 10:36:04 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 10:36:04 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 10:36:04 INFO  sfdclogin 39 - web
+2021-02-09 10:36:04 INFO  sfdclogin 40 - qa
+2021-02-09 10:36:04 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 10:36:16 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (17994fed33dd1412251a50533117f673)] -> name: username]
+2021-02-09 10:36:18 INFO  posfdclogin 88 - ****************************
+2021-02-09 10:36:22 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (17994fed33dd1412251a50533117f673)] -> name: username]
+2021-02-09 10:36:31 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (17994fed33dd1412251a50533117f673)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 10:36:35 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (17994fed33dd1412251a50533117f673)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 11:47:52 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 11:47:52 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 11:47:52 INFO  sfdclogin 39 - web
+2021-02-09 11:47:52 INFO  sfdclogin 40 - qa
+2021-02-09 11:47:52 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 11:48:05 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (61e60528cfc6251e2f940d24f5427cfa)] -> name: username]
+2021-02-09 11:48:07 INFO  posfdclogin 88 - ****************************
+2021-02-09 11:48:11 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (61e60528cfc6251e2f940d24f5427cfa)] -> name: username]
+2021-02-09 11:48:21 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (61e60528cfc6251e2f940d24f5427cfa)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 11:48:24 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (61e60528cfc6251e2f940d24f5427cfa)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 11:56:49 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 11:56:49 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 11:56:49 INFO  sfdclogin 39 - web
+2021-02-09 11:56:49 INFO  sfdclogin 40 - qa
+2021-02-09 11:56:49 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 11:56:59 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (c31a3cb9211e5d48b29e2df5cb192261)] -> name: username]
+2021-02-09 11:57:01 INFO  posfdclogin 88 - ****************************
+2021-02-09 11:57:05 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (c31a3cb9211e5d48b29e2df5cb192261)] -> name: username]
+2021-02-09 11:57:12 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (c31a3cb9211e5d48b29e2df5cb192261)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 11:57:16 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (c31a3cb9211e5d48b29e2df5cb192261)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 12:22:48 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 12:22:48 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 12:22:48 INFO  sfdclogin 39 - web
+2021-02-09 12:22:48 INFO  sfdclogin 40 - qa
+2021-02-09 12:22:48 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 12:23:00 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (a4101ec910e20bbc4a816c51de982d4c)] -> name: username]
+2021-02-09 12:23:01 INFO  posfdclogin 88 - ****************************
+2021-02-09 12:23:06 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (a4101ec910e20bbc4a816c51de982d4c)] -> name: username]
+2021-02-09 12:23:25 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (a4101ec910e20bbc4a816c51de982d4c)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 12:23:54 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (a4101ec910e20bbc4a816c51de982d4c)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 12:27:10 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 12:27:10 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 12:27:10 INFO  sfdclogin 39 - web
+2021-02-09 12:27:10 INFO  sfdclogin 40 - qa
+2021-02-09 12:27:10 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 12:27:22 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (35d11d959b0059036aab62ef95403f10)] -> name: username]
+2021-02-09 12:27:23 INFO  posfdclogin 88 - ****************************
+2021-02-09 12:27:27 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (35d11d959b0059036aab62ef95403f10)] -> name: username]
+2021-02-09 12:27:37 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (35d11d959b0059036aab62ef95403f10)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 12:27:44 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (35d11d959b0059036aab62ef95403f10)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 12:40:54 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 12:40:54 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 12:40:54 INFO  sfdclogin 40 - web
+2021-02-09 12:40:54 INFO  sfdclogin 41 - qa
+2021-02-09 12:40:54 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 12:41:02 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (75655a20b1420be400652a73a3cf6163)] -> name: username]
+2021-02-09 12:41:04 INFO  posfdclogin 88 - ****************************
+2021-02-09 12:41:07 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (75655a20b1420be400652a73a3cf6163)] -> name: username]
+2021-02-09 12:41:14 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (75655a20b1420be400652a73a3cf6163)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 12:41:16 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (75655a20b1420be400652a73a3cf6163)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 15:44:23 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 15:44:23 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 15:44:23 INFO  sfdclogin 40 - web
+2021-02-09 15:44:23 INFO  sfdclogin 41 - qa
+2021-02-09 15:44:23 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 15:45:15 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (d9d7822ab1de7a1fea8ed375acc451da)] -> name: username]
+2021-02-09 15:45:17 INFO  posfdclogin 86 - ****************************
+2021-02-09 15:45:22 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (d9d7822ab1de7a1fea8ed375acc451da)] -> name: username]
+2021-02-09 15:45:33 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (d9d7822ab1de7a1fea8ed375acc451da)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 15:45:33 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (d9d7822ab1de7a1fea8ed375acc451da)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 15:45:40 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (d9d7822ab1de7a1fea8ed375acc451da)] -> name: username]
+2021-02-09 15:45:45 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (d9d7822ab1de7a1fea8ed375acc451da)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:04:06 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 17:04:06 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 17:04:06 INFO  sfdclogin 40 - web
+2021-02-09 17:04:06 INFO  sfdclogin 41 - qa
+2021-02-09 17:04:06 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 17:04:20 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (ce5632ecf78ad9c5b0f14a4af955bb76)] -> name: username]
+2021-02-09 17:04:20 INFO  posfdclogin 83 - ****************************
+2021-02-09 17:04:25 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (ce5632ecf78ad9c5b0f14a4af955bb76)] -> name: username]
+2021-02-09 17:04:32 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (ce5632ecf78ad9c5b0f14a4af955bb76)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:04:37 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (ce5632ecf78ad9c5b0f14a4af955bb76)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:04:40 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (ce5632ecf78ad9c5b0f14a4af955bb76)] -> name: username]
+2021-02-09 17:04:47 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (ce5632ecf78ad9c5b0f14a4af955bb76)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:04:48 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (ce5632ecf78ad9c5b0f14a4af955bb76)] -> name: username]
+2021-02-09 17:04:48 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (ce5632ecf78ad9c5b0f14a4af955bb76)] -> name: username]
+2021-02-09 17:04:49 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (ce5632ecf78ad9c5b0f14a4af955bb76)] -> name: username]
+2021-02-09 17:04:50 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (ce5632ecf78ad9c5b0f14a4af955bb76)] -> name: username]
+2021-02-09 17:04:50 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (ce5632ecf78ad9c5b0f14a4af955bb76)] -> name: username]
+2021-02-09 17:04:51 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (ce5632ecf78ad9c5b0f14a4af955bb76)] -> name: username]
+2021-02-09 17:04:51 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (ce5632ecf78ad9c5b0f14a4af955bb76)] -> name: username]
+2021-02-09 17:04:52 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (ce5632ecf78ad9c5b0f14a4af955bb76)] -> name: username]
+2021-02-09 17:04:52 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (ce5632ecf78ad9c5b0f14a4af955bb76)] -> name: username]
+2021-02-09 17:04:53 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (ce5632ecf78ad9c5b0f14a4af955bb76)] -> name: username]
+2021-02-09 17:08:21 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 17:08:21 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 17:08:21 INFO  sfdclogin 40 - web
+2021-02-09 17:08:21 INFO  sfdclogin 41 - qa
+2021-02-09 17:08:21 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 17:08:30 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (83e6f3c2e238ba01b8500d7d192df0ec)] -> name: username]
+2021-02-09 17:13:38 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 17:13:38 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 17:13:38 INFO  sfdclogin 40 - web
+2021-02-09 17:13:38 INFO  sfdclogin 41 - qa
+2021-02-09 17:13:38 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 17:13:45 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (eaa1fd2a2ac38935ea83377c50c1dbb1)] -> name: username]
+2021-02-09 17:19:27 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 17:19:27 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 17:19:27 INFO  sfdclogin 40 - web
+2021-02-09 17:19:27 INFO  sfdclogin 41 - qa
+2021-02-09 17:19:27 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 17:19:36 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (b6ab9ed08395fdee4c9ecc75da95a515)] -> name: username]
+2021-02-09 17:22:04 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 17:22:04 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 17:22:04 INFO  sfdclogin 40 - web
+2021-02-09 17:22:04 INFO  sfdclogin 41 - qa
+2021-02-09 17:22:04 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 17:22:13 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (7fb1e9108bb7269c0bf99da3e4cc6f90)] -> name: username]
+2021-02-09 17:22:16 INFO  posfdclogin 112 - ****************************
+2021-02-09 17:23:39 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 17:23:39 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 17:23:39 INFO  sfdclogin 40 - web
+2021-02-09 17:23:39 INFO  sfdclogin 41 - qa
+2021-02-09 17:23:39 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 17:23:48 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (10152419284428581b4c81d1cc0a89f9)] -> name: username]
+2021-02-09 17:23:49 INFO  posfdclogin 83 - ****************************
+2021-02-09 17:23:53 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (10152419284428581b4c81d1cc0a89f9)] -> name: username]
+2021-02-09 17:23:59 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (10152419284428581b4c81d1cc0a89f9)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:24:02 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (10152419284428581b4c81d1cc0a89f9)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:24:03 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (10152419284428581b4c81d1cc0a89f9)] -> name: username]
+2021-02-09 17:24:08 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (10152419284428581b4c81d1cc0a89f9)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:24:12 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (10152419284428581b4c81d1cc0a89f9)] -> name: username]
+2021-02-09 17:24:13 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (10152419284428581b4c81d1cc0a89f9)] -> name: username]
+2021-02-09 17:24:13 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (10152419284428581b4c81d1cc0a89f9)] -> name: username]
+2021-02-09 17:24:14 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (10152419284428581b4c81d1cc0a89f9)] -> name: username]
+2021-02-09 17:24:14 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (10152419284428581b4c81d1cc0a89f9)] -> name: username]
+2021-02-09 17:24:15 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (10152419284428581b4c81d1cc0a89f9)] -> name: username]
+2021-02-09 17:24:16 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (10152419284428581b4c81d1cc0a89f9)] -> name: username]
+2021-02-09 17:24:16 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (10152419284428581b4c81d1cc0a89f9)] -> name: username]
+2021-02-09 17:24:17 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (10152419284428581b4c81d1cc0a89f9)] -> name: username]
+2021-02-09 17:41:02 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 17:41:02 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 17:41:02 INFO  sfdclogin 40 - web
+2021-02-09 17:41:02 INFO  sfdclogin 41 - qa
+2021-02-09 17:41:02 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 17:41:12 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (3fc093293695aeaa8ac1aaced54ba392)] -> name: username]
+2021-02-09 17:41:53 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 17:41:53 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 17:41:53 INFO  sfdclogin 40 - web
+2021-02-09 17:41:53 INFO  sfdclogin 41 - qa
+2021-02-09 17:41:53 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 17:42:01 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (f774f8f3be301b59e8404184ec8e55d8)] -> name: username]
+2021-02-09 17:42:04 INFO  posfdclogin 83 - ****************************
+2021-02-09 17:42:07 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (f774f8f3be301b59e8404184ec8e55d8)] -> name: username]
+2021-02-09 17:42:17 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (f774f8f3be301b59e8404184ec8e55d8)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:42:26 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (f774f8f3be301b59e8404184ec8e55d8)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:42:30 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (f774f8f3be301b59e8404184ec8e55d8)] -> name: username]
+2021-02-09 17:42:34 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (f774f8f3be301b59e8404184ec8e55d8)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:42:39 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (f774f8f3be301b59e8404184ec8e55d8)] -> name: username]
+2021-02-09 17:42:40 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (f774f8f3be301b59e8404184ec8e55d8)] -> name: username]
+2021-02-09 17:42:41 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (f774f8f3be301b59e8404184ec8e55d8)] -> name: username]
+2021-02-09 17:42:41 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (f774f8f3be301b59e8404184ec8e55d8)] -> name: username]
+2021-02-09 17:42:42 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (f774f8f3be301b59e8404184ec8e55d8)] -> name: username]
+2021-02-09 17:42:42 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (f774f8f3be301b59e8404184ec8e55d8)] -> name: username]
+2021-02-09 17:42:43 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (f774f8f3be301b59e8404184ec8e55d8)] -> name: username]
+2021-02-09 17:42:44 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (f774f8f3be301b59e8404184ec8e55d8)] -> name: username]
+2021-02-09 17:42:44 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (f774f8f3be301b59e8404184ec8e55d8)] -> name: username]
+2021-02-09 17:42:45 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (f774f8f3be301b59e8404184ec8e55d8)] -> name: username]
+2021-02-09 17:46:36 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 17:46:36 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 17:46:36 INFO  sfdclogin 40 - web
+2021-02-09 17:46:36 INFO  sfdclogin 41 - qa
+2021-02-09 17:46:36 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 17:46:45 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (62915dcd19c57f050c2fe7d0d9c57f6f)] -> name: username]
+2021-02-09 17:47:59 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 17:47:59 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 17:47:59 INFO  sfdclogin 40 - web
+2021-02-09 17:47:59 INFO  sfdclogin 41 - qa
+2021-02-09 17:47:59 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 17:48:07 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (e049c61eceac6f60e3fdadf727b1d02d)] -> name: username]
+2021-02-09 17:49:14 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 17:49:14 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 17:49:14 INFO  sfdclogin 40 - web
+2021-02-09 17:49:14 INFO  sfdclogin 41 - qa
+2021-02-09 17:49:14 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 17:49:22 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (188a838bf0594e02f48346ef8da6faec)] -> name: username]
+2021-02-09 17:49:24 INFO  posfdclogin 83 - ****************************
+2021-02-09 17:49:28 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (188a838bf0594e02f48346ef8da6faec)] -> name: username]
+2021-02-09 17:49:39 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (188a838bf0594e02f48346ef8da6faec)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:49:40 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (188a838bf0594e02f48346ef8da6faec)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:49:56 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (188a838bf0594e02f48346ef8da6faec)] -> name: username]
+2021-02-09 17:50:03 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (188a838bf0594e02f48346ef8da6faec)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:50:19 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (188a838bf0594e02f48346ef8da6faec)] -> name: username]
+2021-02-09 17:50:19 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (188a838bf0594e02f48346ef8da6faec)] -> name: username]
+2021-02-09 17:50:20 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (188a838bf0594e02f48346ef8da6faec)] -> name: username]
+2021-02-09 17:50:20 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (188a838bf0594e02f48346ef8da6faec)] -> name: username]
+2021-02-09 17:50:21 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (188a838bf0594e02f48346ef8da6faec)] -> name: username]
+2021-02-09 17:50:21 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (188a838bf0594e02f48346ef8da6faec)] -> name: username]
+2021-02-09 17:50:22 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (188a838bf0594e02f48346ef8da6faec)] -> name: username]
+2021-02-09 17:50:23 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (188a838bf0594e02f48346ef8da6faec)] -> name: username]
+2021-02-09 17:50:23 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (188a838bf0594e02f48346ef8da6faec)] -> name: username]
+2021-02-09 17:50:24 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (188a838bf0594e02f48346ef8da6faec)] -> name: username]
+2021-02-09 17:51:42 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 17:51:42 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 17:51:42 INFO  sfdclogin 40 - web
+2021-02-09 17:51:42 INFO  sfdclogin 41 - qa
+2021-02-09 17:51:42 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 17:51:52 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (97bffbd476adb297900ebab854822902)] -> name: username]
+2021-02-09 17:52:32 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 17:52:32 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 17:52:32 INFO  sfdclogin 40 - web
+2021-02-09 17:52:32 INFO  sfdclogin 41 - qa
+2021-02-09 17:52:32 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 17:52:41 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (bca3f3a3dd2f355d30d11be850879f7e)] -> name: username]
+2021-02-09 17:52:44 INFO  posfdclogin 83 - ****************************
+2021-02-09 17:52:47 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (bca3f3a3dd2f355d30d11be850879f7e)] -> name: username]
+2021-02-09 17:52:54 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (bca3f3a3dd2f355d30d11be850879f7e)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:52:55 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (bca3f3a3dd2f355d30d11be850879f7e)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:52:56 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (bca3f3a3dd2f355d30d11be850879f7e)] -> name: username]
+2021-02-09 17:53:00 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (bca3f3a3dd2f355d30d11be850879f7e)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:53:01 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (bca3f3a3dd2f355d30d11be850879f7e)] -> name: username]
+2021-02-09 17:53:02 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (bca3f3a3dd2f355d30d11be850879f7e)] -> name: username]
+2021-02-09 17:53:02 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (bca3f3a3dd2f355d30d11be850879f7e)] -> name: username]
+2021-02-09 17:53:03 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (bca3f3a3dd2f355d30d11be850879f7e)] -> name: username]
+2021-02-09 17:53:04 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (bca3f3a3dd2f355d30d11be850879f7e)] -> name: username]
+2021-02-09 17:53:04 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (bca3f3a3dd2f355d30d11be850879f7e)] -> name: username]
+2021-02-09 17:53:05 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (bca3f3a3dd2f355d30d11be850879f7e)] -> name: username]
+2021-02-09 17:53:05 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (bca3f3a3dd2f355d30d11be850879f7e)] -> name: username]
+2021-02-09 17:53:06 INFO  BrowserUtilities 76 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (bca3f3a3dd2f355d30d11be850879f7e)] -> name: username]
+2021-02-09 17:53:42 INFO  CommonUtilities 25 - Current dir using System:C:\Users\sunit\POM_Project/src/main/java/properties/testdata.properties
+2021-02-09 17:53:42 INFO  CommonUtilities 92 - Directory is deleted : C:\Users\sunit\POM_Project\target\surefire-reports\screenshots
+2021-02-09 17:53:42 INFO  sfdclogin 40 - web
+2021-02-09 17:53:42 INFO  sfdclogin 41 - qa
+2021-02-09 17:53:42 INFO  BrowserUtilities 34 - Launching Browser
+2021-02-09 17:53:50 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (5ec817e1ef26107831cf6929631ab769)] -> name: username]
+2021-02-09 17:53:50 INFO  posfdclogin 83 - ****************************
+2021-02-09 17:53:54 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (5ec817e1ef26107831cf6929631ab769)] -> name: username]
+2021-02-09 17:54:00 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (5ec817e1ef26107831cf6929631ab769)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:54:01 INFO  BrowserUtilities 110 - Displayed [[ChromeDriver: chrome on WINDOWS (5ec817e1ef26107831cf6929631ab769)] -> xpath: //*[@id="userNavLabel"]]
+2021-02-09 17:54:03 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (5ec817e1ef26107831cf6929631ab769)] -> name: username]
+2021-02-09 17:54:08 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (5ec817e1ef26107831cf6929631ab769)] -> name: username]
+2021-02-09 17:54:11 INFO  BrowserUtilities 73 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (5ec817e1ef26107831cf6929631ab769)] -> xpath: //*[@id="userNavLabel"]]

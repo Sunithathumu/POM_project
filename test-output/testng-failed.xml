@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test name="POM_Project(failed)">
+    <classes>
+      <class name="src.test.java.sfdc.sfdclogin.sfdclogin">
+        <methods>
+          <include name="settingUpEnvironment"/>
+          <include name="settingReqURL"/>
+          <include name="forgot_password"/>
+          <include name="ShuttingDownAllDependencies"/>
+          <include name="TriggerDependencies"/>
+        </methods>
+      </class> <!-- src.test.java.sfdc.sfdclogin.sfdclogin -->
+    </classes>
+  </test> <!-- POM_Project(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

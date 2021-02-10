@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="25973" started-at="2021-02-10T01:53:47Z" finished-at="2021-02-10T01:54:13Z">
+    <groups>
+    </groups>
+    <test name="POM_Project" duration-ms="25973" started-at="2021-02-10T01:53:47Z" finished-at="2021-02-10T01:54:13Z">
+      <class name="src.test.java.sfdc.sfdclogin.sfdclogin">
+        <test-method status="PASS" signature="TriggerDependencies()[pri:0, instance:src.test.java.sfdc.sfdclogin.sfdclogin@2f7a2457]" name="TriggerDependencies" is-config="true" duration-ms="4614" started-at="2021-02-09T17:53:42Z" finished-at="2021-02-09T17:53:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TriggerDependencies -->
+        <test-method status="PASS" signature="settingUpEnvironment()[pri:0, instance:src.test.java.sfdc.sfdclogin.sfdclogin@2f7a2457]" name="settingUpEnvironment" is-config="true" duration-ms="2785" started-at="2021-02-09T17:53:47Z" finished-at="2021-02-09T17:53:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingUpEnvironment -->
+        <test-method status="PASS" signature="To_check_Error_For_Invalid_Login()[pri:1, instance:src.test.java.sfdc.sfdclogin.sfdclogin@2f7a2457]" name="To_check_Error_For_Invalid_Login" duration-ms="3735" started-at="2021-02-09T17:53:49Z" finished-at="2021-02-09T17:53:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- To_check_Error_For_Invalid_Login -->
+        <test-method status="PASS" signature="settingReqURL()[pri:0, instance:src.test.java.sfdc.sfdclogin.sfdclogin@2f7a2457]" name="settingReqURL" is-config="true" duration-ms="230" started-at="2021-02-09T17:53:53Z" finished-at="2021-02-09T17:53:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingReqURL -->
+        <test-method status="PASS" signature="to_Check_Whether_Login_Happening_Or_Not()[pri:2, instance:src.test.java.sfdc.sfdclogin.sfdclogin@2f7a2457]" name="to_Check_Whether_Login_Happening_Or_Not" duration-ms="7654" started-at="2021-02-09T17:53:53Z" finished-at="2021-02-09T17:54:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- to_Check_Whether_Login_Happening_Or_Not -->
+        <test-method status="PASS" signature="settingReqURL()[pri:0, instance:src.test.java.sfdc.sfdclogin.sfdclogin@2f7a2457]" name="settingReqURL" is-config="true" duration-ms="1151" started-at="2021-02-09T17:54:01Z" finished-at="2021-02-09T17:54:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingReqURL -->
+        <test-method status="PASS" signature="forgot_password()[pri:3, instance:src.test.java.sfdc.sfdclogin.sfdclogin@2f7a2457]" name="forgot_password" duration-ms="5218" started-at="2021-02-09T17:54:02Z" finished-at="2021-02-09T17:54:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgot_password -->
+        <test-method status="PASS" signature="settingReqURL()[pri:0, instance:src.test.java.sfdc.sfdclogin.sfdclogin@2f7a2457]" name="settingReqURL" is-config="true" duration-ms="245" started-at="2021-02-09T17:54:07Z" finished-at="2021-02-09T17:54:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingReqURL -->
+        <test-method status="PASS" signature="Remember_username_check()[pri:4, instance:src.test.java.sfdc.sfdclogin.sfdclogin@2f7a2457]" name="Remember_username_check" duration-ms="4496" started-at="2021-02-09T17:54:08Z" finished-at="2021-02-09T17:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Remember_username_check -->
+        <test-method status="PASS" signature="settingReqURL()[pri:0, instance:src.test.java.sfdc.sfdclogin.sfdclogin@2f7a2457]" name="settingReqURL" is-config="true" duration-ms="347" started-at="2021-02-09T17:54:12Z" finished-at="2021-02-09T17:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingReqURL -->
+        <test-method status="PASS" signature="ShuttingDownAllDependencies()[pri:0, instance:src.test.java.sfdc.sfdclogin.sfdclogin@2f7a2457]" name="ShuttingDownAllDependencies" is-config="true" duration-ms="997" started-at="2021-02-09T17:54:13Z" finished-at="2021-02-09T17:54:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShuttingDownAllDependencies -->
+      </class> <!-- src.test.java.sfdc.sfdclogin.sfdclogin -->
+    </test> <!-- POM_Project -->
+  </suite> <!-- Default Suite -->
+</testng-results>
